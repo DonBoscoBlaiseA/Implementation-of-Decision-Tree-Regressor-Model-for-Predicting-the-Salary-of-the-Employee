@@ -16,14 +16,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 6. Import metrics from sklearn and calculate the MSE and R2 of the model on the dataset.
 7. Predict the values of array.
 8. Apply to new unknown values.
-```
 
-
-
-
-
-
-```
 ## Program:
 ```
 /*
@@ -31,6 +24,7 @@ Program to implement the Decision Tree Regressor Model for Predicting the Salary
 Developed by: Don Bosco Blaise A
 RegisterNumber: 212221040045
 */
+```
 
 import pandas as pd
 data=pd.read_csv("Salary.csv")
@@ -39,6 +33,10 @@ data.info()
 data.isnull().sum()
 from sklearn.preprocessing import LabelEncoder
 le = LabelEncoder()
+```
+
+
+```
 data["Position"] = le.fit_transform(data["Position"])
 data.head()
 x = data[["Position","Level"]]
