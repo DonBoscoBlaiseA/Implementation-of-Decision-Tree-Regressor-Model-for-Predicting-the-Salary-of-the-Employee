@@ -57,23 +57,16 @@ dt.predict([[5,6]])
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/140850829/f52cb404-babf-4065-9e64-35464c0ee2f3)
 <br>
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/140850829/c792367e-9fc8-42f8-9b5e-e83eaf56645b)
-```
-```
+<br>
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/140850829/c757d5f3-d19f-464c-8c0d-fabe4dd7bc25)
-```
-```
+<br>
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/140850829/99014278-baa6-470c-a391-35cbeffe2077)
-```
-```
+<br>
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/140850829/c30fe91c-c749-42ad-9c81-47cc6d6f5462)
-```
-```
+<br>
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/140850829/dfe4857e-78ef-4c0d-859d-c28bff7a321d)
-```
-```
+<br>
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/140850829/0c688025-fe23-465a-a176-6524d74ed7b8)
-
-
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
