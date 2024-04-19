@@ -24,7 +24,6 @@ Program to implement the Decision Tree Regressor Model for Predicting the Salary
 Developed by: Don Bosco Blaise A
 RegisterNumber: 212221040045
 */
-```
 
 import pandas as pd
 data=pd.read_csv("Salary.csv")
