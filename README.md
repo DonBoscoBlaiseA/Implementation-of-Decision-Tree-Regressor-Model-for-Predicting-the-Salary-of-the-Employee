@@ -16,7 +16,14 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 6. Import metrics from sklearn and calculate the MSE and R2 of the model on the dataset.
 7. Predict the values of array.
 8. Apply to new unknown values.
+```
 
+
+
+
+
+
+```
 ## Program:
 ```
 /*
