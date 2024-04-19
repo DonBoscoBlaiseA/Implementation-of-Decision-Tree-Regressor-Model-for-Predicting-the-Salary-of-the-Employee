@@ -31,7 +31,6 @@ data.head()
 data.info()
 ```
 ```
-
 ```
 ```
 data.isnull().sum()
