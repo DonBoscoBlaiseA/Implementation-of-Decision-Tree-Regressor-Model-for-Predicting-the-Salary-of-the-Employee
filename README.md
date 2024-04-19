@@ -35,6 +35,19 @@ le = LabelEncoder()
 ```
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 data["Position"] = le.fit_transform(data["Position"])
 data.head()
