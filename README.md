@@ -33,6 +33,7 @@ data.isnull().sum()
 from sklearn.preprocessing import LabelEncoder
 le = LabelEncoder()
 ```
+```
 
 
 
@@ -42,12 +43,7 @@ le = LabelEncoder()
 
 
 
-
-
-
-
-
-
+```
 ```
 data["Position"] = le.fit_transform(data["Position"])
 data.head()
