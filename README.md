@@ -32,14 +32,6 @@ data.info()
 ```
 ```
 
-
-
-
-
-
-
-
-
 ```
 ```
 data.isnull().sum()
