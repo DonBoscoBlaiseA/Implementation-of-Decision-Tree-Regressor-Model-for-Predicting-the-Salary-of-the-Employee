@@ -29,9 +29,6 @@ import pandas as pd
 data=pd.read_csv("Salary.csv")
 data.head()
 data.info()
-```
-
-```
 data.isnull().sum()
 from sklearn.preprocessing import LabelEncoder
 le = LabelEncoder()
